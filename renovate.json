@@ -1,3 +1,5 @@
 {
-  "semanticCommits": "enabled"
+  "semanticCommits": "enabled",
+  "prConcurrentLimit": 0,
+  "prHourlyLimit": 0
 }
